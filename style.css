@@ -193,3 +193,13 @@ body {
 .bottom-padding {
     padding-bottom: 60px;
 }
+
+footer {
+    text-align: center;
+    background: rgb(16, 6, 16);
+    color: rgb(223, 179, 203);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-family: 'Pacifico', cursive;
+
+}
