@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 48px;
 }
 
 .link_button {
@@ -28,6 +28,95 @@ h1 {
 
 }
 
-.container {
+.text-part1 {
     padding: 150px;
+}
+
+.amount-button {
+    text-decoration: none;
+    border-radius: 7px;
+    color: rgb(92, 87, 87);
+    padding: 50px 50px;
+    background-color: rgb(222, 217, 217);
+
+}
+
+.change-color {
+    color: rgb(92, 87, 87);
+}
+
+.button-placement {
+    margin-top: 90px;
+}
+
+.container {
+    text-align: center;
+}
+
+#color {
+    color: rgb(164, 36, 164);
+    border-style: solid;
+    border-color: rgb(164, 36, 164);
+}
+
+.formbox {
+
+    border-bottom: 1px solid rgb(92, 87, 87);
+    width: 30%;
+    padding-top: 100px;
+    text-align: center;
+
+}
+
+.formbox input {
+    border: none;
+    outline: none;
+}
+
+.amount-form {
+    margin-left: 42%;
+}
+
+.donate-button {
+    padding-top: 30px;
+    padding-right: 630px;
+}
+
+.text-part3 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.one-3rd-width {
+    width: 33.3%;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#resize-icon {
+    height: 60px;
+    padding-bottom: 5px;
+}
+
+#food {
+    margin-left: 140px;
+    margin-right: 40px;
+    background-color: rgb(166, 187, 187);
+}
+
+#medicine {
+    margin-right: 40px;
+    margin-left: 40px;
+    background-color: rgb(174, 145, 124);
+}
+
+#shelter {
+    margin-left: 40px;
+    margin-right: 140px;
+    background-color: rgb(200, 163, 199);
 }
