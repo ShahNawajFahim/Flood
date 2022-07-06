@@ -4,8 +4,8 @@ body {
 
 }
 
-h1 {
-    font-size: 48px;
+#first-heading {
+    font-size: 38px;
 }
 
 .link_button {
@@ -119,4 +119,24 @@ h1 {
     margin-left: 40px;
     margin-right: 140px;
     background-color: rgb(200, 163, 199);
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 20px;
+}
+
+.half-width img {
+    width: 85%;
+    padding-top: 10%;
+}
+
+.horizontal-show {
+    display: flex;
+}
+
+#half-width-text {
+    padding-top: 130px;
 }
